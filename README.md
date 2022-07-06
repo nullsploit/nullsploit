@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-#### I'm currently working on <a href="https://github.com/nullsploit/docker_container_files">docker_container_files</a>
-#### The language I deem "my" language is Python.
+#### I'm currently working on <a target="_blank" href="https://github.com/nullsploit/docker_container_files">docker_container_files</a> and a few private repos
 
-I have worked and collaborated on a few private repos using the following to name a few
+````php
+$first_language = "PHP";
+````
 ```python
 favourite_languages = ["React", "Javascript", "Django", "React-Native"] 
-
 ````
 
 
