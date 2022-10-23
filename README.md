@@ -15,5 +15,6 @@ currently_employed_at = "Fontana Software"
   <img style="height: 20rem; width: auto" src="https://api.daily.dev/devcards/431342aba49b4f1da9e5710b6ec2ec67.png?r=6mk"/>
 </a>-->
 <hr>
-
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=nullsploit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
